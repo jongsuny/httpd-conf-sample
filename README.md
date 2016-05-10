@@ -1,6 +1,7 @@
 # httpd-conf-sample
 This is apache httpd config sample.
-Remember, this is sample,before apply to your server, make sure all config goes right.
+
+**Remember**, this is sample,before apply to your server, make sure all config goes right.
 
 ======
 ## Includes
